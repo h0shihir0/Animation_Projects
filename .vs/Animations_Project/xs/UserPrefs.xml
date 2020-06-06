@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B42D335A-1E6B-D7CD-52ED-8E28C1EFCA75}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pokemons/Scripts/StratStops.cs">
+    <Files>
+      <File FileName="Assets/Pokemons/Scripts/StratStops.cs" Line="34" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
