@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MiniAnimation/Scenes/SwipingTinder.unity
+- path: Assets/MiniAnimation/Scenes/iphonehome.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{B42D335A-1E6B-D7CD-52ED-8E28C1EFCA75}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pokemons/Scripts/StratStops.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiniAnimation/Scripts/RotateText.cs">
     <Files>
       <File FileName="Assets/Pokemons/Scripts/StratStops.cs" Line="34" Column="49" />
+      <File FileName="Assets/MiniAnimation/Scripts/RotateText.cs" Line="152" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\3Dobj\Planet Earth Free\SpinFree.cs" />
+    <Compile Include="Assets\MiniAnimation\Scripts\RotateText.cs" />
     <Compile Include="Assets\Pokemons\Scripts\AnimationPlayAll.cs" />
     <Compile Include="Assets\Pokemons\Scripts\StratStops.cs" />
     <None Include="Assets\3Dobj\Smartphone\StandardColorMask.shader" />
