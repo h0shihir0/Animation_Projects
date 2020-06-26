@@ -548,7 +548,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 800579034}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a431ca8e1e61149859fd5f255646c9d0, type: 3}
   m_Name: 
@@ -556,6 +556,10 @@ MonoBehaviour:
   new_chara: {fileID: 4348801029220992215}
   message_txt: {fileID: 1638313311}
   main_cam: {fileID: 800579040}
+  nc: {fileID: 0}
+  end: {fileID: 0}
+  m_cam: {fileID: 0}
+  smartphone: {fileID: 0}
 --- !u!82 &800579039
 AudioSource:
   m_ObjectHideFlags: 0

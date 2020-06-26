@@ -2,8 +2,6 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
-    <CscToolPath>/Applications/Unity/Hub/Editor/2019.2.15f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
-    <CscToolExe>unity_csc.sh</CscToolExe>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -54,6 +52,9 @@
     <UnityVersion>2019.2.15f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -63,10 +64,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\3Dobj\Planet Earth Free\SpinFree.cs" />
+    <Compile Include="Assets\MiniAnimation\ConversationAnim\Scripts\AnimationStop.cs" />
     <Compile Include="Assets\MiniAnimation\Scripts\RotateText.cs" />
     <Compile Include="Assets\Pokemons\Scripts\AnimationPlayAll.cs" />
     <Compile Include="Assets\Pokemons\Scripts\StratStops.cs" />
     <None Include="Assets\3Dobj\Smartphone\StandardColorMask.shader" />
+    <None Include="Assets\MiniAnimation\ConversationAnim\Simple city plain\Read_me.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/hoshinohiroto/Desktop/Animations_Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

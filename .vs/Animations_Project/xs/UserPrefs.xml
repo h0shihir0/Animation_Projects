@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{B42D335A-1E6B-D7CD-52ED-8E28C1EFCA75}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiniAnimation/Scripts/RotateText.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pokemons/Scripts/AnimationPlayAll.cs">
     <Files>
-      <File FileName="Assets/Pokemons/Scripts/StratStops.cs" Line="34" Column="49" />
-      <File FileName="Assets/MiniAnimation/Scripts/RotateText.cs" Line="152" Column="16" />
+      <File FileName="Assets/Pokemons/Scripts/StratStops.cs" Line="34" Column="33" />
+      <File FileName="Assets/MiniAnimation/Scripts/RotateText.cs" />
+      <File FileName="Assets/MiniAnimation/ConversationAnim/Scripts/AnimationStop.cs" />
+      <File FileName="Assets/Pokemons/Scripts/AnimationPlayAll.cs" Line="47" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa1dc7be-ed9a-4565-925a-6454462c9c0a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

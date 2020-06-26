@@ -9,6 +9,10 @@ public class StratStops : MonoBehaviour
     public Animator new_chara;
     public Animator message_txt;
     public AudioSource main_cam;
+    public Animator  nc;
+    public Animator end;
+    public Animator m_cam;
+    public Animator smartphone;
 
     void Start()
     {
@@ -16,6 +20,10 @@ public class StratStops : MonoBehaviour
         message_txt.enabled = false;
         new_chara.enabled = false;
         main_cam.enabled = false;
+        nc.enabled = false;
+        end.enabled = false;
+        m_cam.enabled = false;
+        smartphone.enabled = false;
       Invoke("ReStart", 2f);
     }
 
@@ -24,6 +32,11 @@ public class StratStops : MonoBehaviour
         new_chara.enabled = true;
         message_txt.enabled = true;
         main_cam.enabled = true;
+        nc.enabled = true;
+        end.enabled = true;
+        m_cam.enabled = true;
+        smartphone.enabled = true;
+
     }
 
     public void newcharaIsOn(){
